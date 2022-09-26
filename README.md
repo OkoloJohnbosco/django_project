@@ -1,1 +1,2 @@
-<h2>Welcome to my second project</h2> 
+<br />
+<h2>Welcome to my second django project</h2> 
